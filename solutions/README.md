@@ -1,0 +1,1 @@
+This is my funky python package! It does nothing useful, but will hopefully install (maybe). ༼ ºل͟º ༽
